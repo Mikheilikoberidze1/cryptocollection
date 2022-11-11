@@ -1,0 +1,55 @@
+
+.title {
+    color: white;
+    font-weight: bold;
+}
+.titles {
+    color: lavender;
+    font-weight: bolder;
+    font-size: large;
+    
+}
+.rowscolor{
+    color: white;
+}
+.coinimg{
+    width: 45px;
+}
+.dollar{
+    width: 15px;
+    
+}
+.btn1{
+    text-align: center;
+}
+.body2{
+    background-color: #212529;
+}
+.body1{
+    background-color: white;
+}
+.titlelight{
+    color: black;
+    font-weight: bold;
+}
+.titleslight{
+    color: black;
+    font-weight: bolder;
+    font-size: large;
+}
+.rowscolorlight{
+    color: black;
+}
+
+.darklighto{
+    width: 40px;
+    float: right;
+    margin-top: 15px;
+    margin-right: 15px;
+}
+.solocolor{
+    color: rgba(255, 0, 0, 0.829);
+}
+.sologreen{
+    color: green;
+}
